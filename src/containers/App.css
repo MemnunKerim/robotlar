@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Brolike Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brolike Regular'), url('BrolikeRegular-x3Mzq.woff') format('woff');
+    }
+
+    h1{
+        font-family: 'Brolike Regular';
+        font-weight: 200;
+        color:darkred;
+
+    }
