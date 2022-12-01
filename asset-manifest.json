@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robotlar/static/css/main.0c78fd44.css",
+    "main.js": "/robotlar/static/js/main.8f031f2e.js",
+    "static/js/787.1478c833.chunk.js": "/robotlar/static/js/787.1478c833.chunk.js",
+    "static/media/BrolikeRegular-x3Mzq.woff": "/robotlar/static/media/BrolikeRegular-x3Mzq.ca0842f82c52af143ab5.woff",
+    "index.html": "/robotlar/index.html",
+    "main.0c78fd44.css.map": "/robotlar/static/css/main.0c78fd44.css.map",
+    "main.8f031f2e.js.map": "/robotlar/static/js/main.8f031f2e.js.map",
+    "787.1478c833.chunk.js.map": "/robotlar/static/js/787.1478c833.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c78fd44.css",
+    "static/js/main.8f031f2e.js"
+  ]
+}
